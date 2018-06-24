@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros-vm/p14707/serial_ws/install/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/ros-vm/p14707/serial_ws/install
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/ros-vm/p14707/serial_ws/install/include
+Libs: -L/home/ros-vm/p14707/serial_ws/install/lib -lserial -lrt -lpthread
+Requires: 
